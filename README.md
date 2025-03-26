@@ -12,7 +12,7 @@ This is an **Online Restaurant** web application built using **jQuery, HTML, CSS
 
 ## 🛠 Tech Stack  
 - **Frontend:** `HTML`, `CSS`, `JavaScript`, `jQuery`  
-- **Libraries:** `jQuery`, `Bootstrap` (if used)  
+- **Libraries:** `jQuery`, `Bootstrap`
 
 ## 🔧 Installation  
 
